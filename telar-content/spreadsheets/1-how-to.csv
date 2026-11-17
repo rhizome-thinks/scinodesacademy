@@ -3,10 +3,7 @@ paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton
 1,how-to-choose-a-research-topic-image-1,0.5,0.5,1,,Choosing a Research Topic,"At the heart of choosing a research topic is exploring an interest until you understand what, exactly, might be worth investigating.
 
 Often, young researchers think that their interests – like remote work or cancer or nineteenth-century literature – are research topics in and of themselves. They're not.  ",,What Are Research Topics?,1-how-to-interests-vs-research.md,,,,,
-2,initial-map-2,0.5,0.5,1,,What is the thing that interests you?,"You probably have a research interest or you wouldn't be here. Use a structured search or semantic search to gather publications relevant to what interests you. 
-
-You can be as broad as you like - its okay not to be specific so early on.",,How Do i do a search?,1-how-to-structured-search.md,,,,,
-3,your-2,0.5,0.5,1,,Research advice can be strangely circular,"Choose something broad, we're told, and then make it more specific. But how are you supposed to know what to make more specific when you don't yet know very much about the thing you're researching?
+2,your-2,0.5,0.5,1,,Research advice can be strangely circular,"Choose something broad, we're told, and then make it more specific. But how are you supposed to know what to make more specific when you don't yet know very much about the thing you're researching?
 
 The answer is that you pobably can't. 
 
@@ -14,6 +11,9 @@ This is because choosing a research topic isn't something that happens before re
 
 It is one of the first acts of research itself.
 ",,"Start with an interest, not a topic",1-how-to-start-with-an.md,,,,,
+3,initial-map-2,0.5,0.5,1,,What is the thing that interests you?,"You probably have a research interest or you wouldn't be here. Use a structured search or semantic search to gather publications relevant to what interests you. 
+
+You can be as broad as you like - its okay not to be specific so early on.",,There are 2 ways to search in SciNodes,1-how-to-1-structured-search.md,2. Semantic Search,1-how-to-2-semantic-search.md,,,
 4,booth-three-things,0.5,0.5,1,,"Start with an interest, not a topic","If you're interested in remote work, for example, you don't need to immediately convert that interest into something that sounds appropriately academic:
 
 ""The effects of hybrid working arrangements on employee productivity in knowledge-intensive organisations""
