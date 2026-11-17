@@ -84,6 +84,6 @@ the build did not run the Python step.{%- endcomment -%}
   --z-panel-backdrop: 9900;                     /* below panel stack (9910+), above cards */
 }
 
-.text-card[data-object="your-image-id"] .step-answer {
+.text-card[data-object="initial-map-2"] .step-answer {
   --telar-answer-base-size: 1.15rem;
 }
