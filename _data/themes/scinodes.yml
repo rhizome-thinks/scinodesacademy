@@ -1,0 +1,21 @@
+name: "SciNodes"
+description: "Brand theme for SciNodes Academy."
+
+colors:
+  text:
+    heading: "#101010"
+    body: "#606060"
+    link: "#B82E08"
+    button: "#101010"
+    panel_layer1: "#101010"
+    panel_layer2: "#101010"
+    panel_glossary: "#101010"
+  background:
+    button: "#FF3D00"
+    panel_layer1: "#F8F8F8"
+    panel_layer2: "#FFE8DC"
+    panel_glossary: "#FFFFFF"
+
+fonts:
+  headings: "'Source Serif 4', Georgia, serif"
+  body: "'Source Sans Pro', Arial, sans-serif"
