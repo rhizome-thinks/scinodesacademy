@@ -1,7 +1,24 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,how-to-choose-a-research-topic-image-1,0.5,0.5,1,,"At the heart of choosing a research topic is exploring an interest until you understand what, exactly, might be worth investigating.","When getting started with research, one of the first things researchers are typically told to do is: **choose a research topic**. 
+1,how-to-choose-a-research-topic-image-1,0.5,0.5,1,,Choosing a Research Topic,"At the heart of choosing a research topic is exploring an interest until you understand what, exactly, might be worth investigating.
 
-Often, young researchers think that their interests – like remote work or cancer or nineteenth-century literature – are research topics in and of themselves. 
+Often, young researchers think that their interests – like remote work or cancer or nineteenth-century literature – are research topics in and of themselves. They're not.  ",,What Are Research Topics?,1-how-to-interests-vs-research.md,,,,,
+2,initial-map-2,0.5,0.5,1,,What is the thing that interests you?,"You must have an interest in something ",,,,,,,,
+3,your-2,0.5,0.5,1,,Research advice can be strangely circular,"Choose something broad, we're told, and then make it more specific. But how are you supposed to know what to make more specific when you don't yet know very much about the thing you're researching?
 
-However, these are not yet research topics. ",,Learn more,1-how-to-interests-vs-research.md,,,,,
+The answer is that you pobably can't. 
+
+This is because choosing a research topic isn't something that happens before research begins. 
+
+It is one of the first acts of research itself.
+",,"Start with an interest, not a topic",1-how-to-start-with-an.md,,,,,
+4,booth-three-things,0.5,0.5,1,,"Start with an interest, not a topic","If you're interested in remote work, for example, you don't need to immediately convert that interest into something that sounds appropriately academic:
+
+""The effects of hybrid working arrangements on employee productivity in knowledge-intensive organisations""
+
+You might eventually arrive somewhere around there.
+
+But forcing yourself to formulate a precise topic too early creates a peculiar problem: you are making decisions about the boundaries of your research before you understand the territory inside those boundaries.",,Go deeper,1-how-to-the-craft-of.md,,,,,
+5,initial-map-2,0.5,0.5,1,,At this stage you should be doing exploratory reading,"1. Start with the broader interest. 
+
+The most common concepts, terms, methods or theories within ",,,,,,,,
