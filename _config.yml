@@ -8,10 +8,10 @@ url: "https://rhizome-thinks.github.io"
 baseurl: "/scinodesacademy"
 author: "rhizome-thinks"
 email: ""
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "scinodes"
 logo: ""
-telar_language: "en" # Options: "en" (English), "es" (Español)
-collection_mode: false # Set to true to show objects first with large thumbnails and stories below with small thumbnails (collection-first homepage)
+telar_language: en
+collection_mode: false
 
 # Story Interface Settings
 story_interface:
@@ -41,7 +41,7 @@ collection_interface:
 # Story Protection (optional)
 # Stories with protected=yes in project.csv will be encrypted.
 # Viewers need this key to unlock protected stories.
-story_key: "test"
+story_key: "scholaris7155"
 
 # Google Sheets Integration (optional)
 # Manage content via Google Sheets instead of editing CSV files directly.
