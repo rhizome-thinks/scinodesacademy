@@ -83,3 +83,7 @@ the build did not run the Python step.{%- endcomment -%}
   --color-overlay-dim: rgba(0, 0, 0, 0.25);     /* audio-card.js pause/dim overlays */
   --z-panel-backdrop: 9900;                     /* below panel stack (9910+), above cards */
 }
+
+.text-card[data-object="your-image-id"] .step-answer {
+  --telar-answer-base-size: 1.15rem;
+}
