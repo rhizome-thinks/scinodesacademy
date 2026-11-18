@@ -3,4 +3,7 @@ paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton
 1,project-home-empty,0.5,0.5,1,,Generate your first research map,"To begin narrowing your interest into a research topic, create your first research map in SciNodes. 
 
 If you haven’t created a project yet, you’ll start in the project builder.",,,,,,,,
-2,project-home-empty,0.3740644869800344,0.44345824172364673,2.4883199999999994,,,,,,,,,,,
+2,project-home-empty,0.3743682803551943,0.4741601008225263,1.7279999999999998,,Three ways to generate your first map,"1 - Semantic Search 
+2 - Structured Search 
+3 - Map your existing library",,,,,,,,
+3,semantic,0.3740644869800344,0.44345824172364673,2.4883199999999994,,Semantic Search,,,,,,,,,
