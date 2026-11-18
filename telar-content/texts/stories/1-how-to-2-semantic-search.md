@@ -8,7 +8,7 @@ Describe what you’re looking for in everyday language or frame it as a questio
 
 For example:
 
-“How do mitochondria affect the growth of lung cancer cells?”
 “Research on batteries that use sodium ions in place of lithium ions”
+“How do mitochondria affect the growth of lung cancer cells?”
 “How does working from home affect collaboration among colleagues?”
 ![semantic search](https://rhizome-thinks.github.io/scinodesacademy/iiif/objects/semantic-search/semantic-search.jpg)
