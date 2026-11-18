@@ -5,5 +5,11 @@ paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton
 If you haven’t created a project yet, you’ll start in the project builder.",,,,,,,,
 2,project-home-empty,0.3743682803551943,0.4741601008225263,1.7279999999999998,,Three ways to generate your first map,"1 - Semantic Search 
 2 - Structured Search 
-3 - Map your existing library",,,,,,,,
-3,semantic,0.3740644869800344,0.44345824172364673,2.4883199999999994,,Semantic Search,,,,,,,,,
+3 - Map your existing library
+
+
+
+",,,,,,,,
+3,initial-map-1,0.5,0.5,1,,Semantic vs Structured Search,"Which one you use depends on how broad your initial interest is. 
+",,,,,,,,
+4,semantic,0.3994867340566824,0.42988611550476025,1.7279999999999998,,Semantic Search,,,,,,,,,
