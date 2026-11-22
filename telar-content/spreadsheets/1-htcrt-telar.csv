@@ -1,16 +1,19 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,project-home-empty,0.5,0.5,1,,Generating your first research map,"To begin narrowing your interest into a research topic, create your first research map in SciNodes. 
+1,project-home-empty,0.3743682803551943,0.4741601008225263,1.7279999999999998,,Generating your first research map,"To begin narrowing your interest into a research topic, create your first research map in SciNodes. 
 
-If you haven’t created a project yet, you’ll start in the project builder.",,,,,,,,
-2,project-home-empty,0.3743682803551943,0.4741601008225263,1.7279999999999998,,Three ways to generate your first map:,"1 - Semantic Search 
+If you haven’t created a project yet, you’ll start in the project builder.
+
+There are 3 ways to generate your first map:
+
+1 - Semantic Search 
 2 - Structured Search 
 3 - Map your existing library
 
 
 
 ",,,,,,,,
-3,semantic,0.36732688033925,0.4925698464452969,1.7279999999999998,,Semantic Search,"Describe what you're looking for if you don't have much focus yet:
+2,semantic,0.36732688033925,0.4925698464452969,1.7279999999999998,,Semantic Search,"Describe what you're looking for if you don't have much focus yet:
 
 ""publications about chronic pain from the last 10 years""
 ""research in the field of workplace psychology""
@@ -21,7 +24,7 @@ Or pose a question if you have one in mind:
 ""how is chronic pain managed?""
 ""how can employees be motivated to perform better?""
 ""what are some recurring themes in French literature? ",,,,,,,,
-4,structured,0.3994867340566824,0.4959937110254749,1.7279999999999998,,Structured Search,"If you already know which terms, authors, or journals you want to search, use structured search to look for publications that match them.
+3,structured,0.3994867340566824,0.4959937110254749,1.7279999999999998,,Structured Search,"If you already know which terms, authors, or journals you want to search, use structured search to look for publications that match them.
 
 For example, search by terms:
 ""chronic pain AND surgery""
@@ -31,7 +34,7 @@ For example, search by terms:
 Or narrow your search with an author, journal, or publication year.
  
 Structured search is useful when you have a clearer idea of what you’re looking for and want more control over which publications appear.",,,,,,,,
-5,your-own,0.3994867340566824,0.4972898618382592,1.7279999999999998,,Map your own library,"If you already have papers on your area of interest, you can upload PDFs to start from the literature you’ve collected.
+4,your-own,0.3994867340566824,0.4972898618382592,1.7279999999999998,,Map your own library,"If you already have papers on your area of interest, you can upload PDFs to start from the literature you’ve collected.
 
 If you have at least 50 papers, you can generate a map directly from them. 
 
